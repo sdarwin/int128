@@ -5,3 +5,4 @@ Portable implementations of signed and unsigned 128-bit integers
 
 Decimal is under active development and is not an official boost library.
 
+i
